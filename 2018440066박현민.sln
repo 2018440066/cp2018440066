@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20180911hello", "20180911hello\20180911hello.vcxproj", "{F9F8175E-BD89-4C7F-BEF6-7AB851442048}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20180911hello2", "20180911hello2\20180911hello2.vcxproj", "{333106E1-64CA-4256-B568-585C271A5AB6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181002변수와 연산자", "20181002변수와 연산자\20181002변수와 연산자.vcxproj", "{97CB3322-F2DB-426C-9CF3-E7075F2CBF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F8175E-BD89-4C7F-BEF6-7AB851442048}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9F8175E-BD89-4C7F-BEF6-7AB851442048}.Debug|Win32.Build.0 = Debug|Win32
+		{F9F8175E-BD89-4C7F-BEF6-7AB851442048}.Release|Win32.ActiveCfg = Release|Win32
+		{F9F8175E-BD89-4C7F-BEF6-7AB851442048}.Release|Win32.Build.0 = Release|Win32
+		{333106E1-64CA-4256-B568-585C271A5AB6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{333106E1-64CA-4256-B568-585C271A5AB6}.Debug|Win32.Build.0 = Debug|Win32
+		{333106E1-64CA-4256-B568-585C271A5AB6}.Release|Win32.ActiveCfg = Release|Win32
+		{333106E1-64CA-4256-B568-585C271A5AB6}.Release|Win32.Build.0 = Release|Win32
+		{97CB3322-F2DB-426C-9CF3-E7075F2CBF5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97CB3322-F2DB-426C-9CF3-E7075F2CBF5F}.Debug|Win32.Build.0 = Debug|Win32
+		{97CB3322-F2DB-426C-9CF3-E7075F2CBF5F}.Release|Win32.ActiveCfg = Release|Win32
+		{97CB3322-F2DB-426C-9CF3-E7075F2CBF5F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
